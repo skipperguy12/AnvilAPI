@@ -1,0 +1,11 @@
+name: AnvilAPI
+main: com.github.skipperguy12.AnvilAPI.core.AnvilAPICore
+version: .1
+description: Anvil utilities, API's, and commands
+commands:
+    travel:
+        description: Core travel command!
+    back:
+        description: Returns to your last saved location
+    setback:
+        descrtiption: Set your back location
